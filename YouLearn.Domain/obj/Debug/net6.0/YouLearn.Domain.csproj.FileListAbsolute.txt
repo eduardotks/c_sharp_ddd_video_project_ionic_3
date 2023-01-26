@@ -1,0 +1,12 @@
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\bin\Debug\net6.0\YouLearn.Domain.deps.json
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\bin\Debug\net6.0\YouLearn.Domain.dll
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\bin\Debug\net6.0\YouLearn.Domain.pdb
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.dll
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\refint\YouLearn.Domain.dll
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\YouLearn.Domain.pdb
+C:\$$$$$CCOD\YouLearn\YouLearn\YouLearn.Domain\obj\Debug\net6.0\ref\YouLearn.Domain.dll
