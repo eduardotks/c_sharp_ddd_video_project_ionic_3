@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using YouLearn.Domain.Entities.Base;
+﻿using Project.Domain.Entities.Base;
 
-namespace YouLearn.Domain.Entities
+namespace Project.Domain.Entities
 {
-    public class Canal : EntityBase
+    public class Favorito : EntityBase
     {
-        
+
         public Video Video { get; set; }
         public Usuario Usuario { get; set; }
     }

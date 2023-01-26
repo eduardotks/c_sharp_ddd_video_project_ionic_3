@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using YouLearn.Domain.Entities.Base;
-using YouLearn.Domain.ValueObjects;
+﻿using Project.Domain.Entities.Base;
+using Project.Domain.ValueObjects;
 
-namespace YouLearn.Domain.Entities
+namespace Project.Domain.Entities
 {
     public class Usuario : EntityBase
     {

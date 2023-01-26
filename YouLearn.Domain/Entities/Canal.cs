@@ -1,10 +1,10 @@
 ﻿//crtl R + G limpa import desnecessário
 
-using YouLearn.Domain.Entities.Base;
-using YouLearn.Domain.ValueObjects;
+using Project.Domain.Entities.Base;
+using Project.Domain.ValueObjects;
 
-namespace YouLearn.Domain.Entities
-{ 
+namespace Project.Domain.Entities
+{
     //canal herda de entity base
     public class Canal : EntityBase
     {

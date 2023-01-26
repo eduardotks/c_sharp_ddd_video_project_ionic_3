@@ -1,13 +1,13 @@
-﻿using YouLearn.Domain.Entities.Base;
-using YouLearn.Domain.Enums;
+﻿using Project.Domain.Entities.Base;
+using Project.Domain.Enums;
 
-namespace YouLearn.Domain.Entities
+namespace Project.Domain.Entities
 {
     public class Playlist : EntityBase
     {
         public Playlist()
         {
-            Video video = new Video(); 
+            Video video = new Video();
             video.status = EnumStatus.Aprovado;
         }
         public Usuario Usuario { get; set; }
