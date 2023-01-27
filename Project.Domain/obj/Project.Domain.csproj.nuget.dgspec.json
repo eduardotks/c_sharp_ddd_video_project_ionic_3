@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\YouLearn.Domain\\Project.Domain.csproj": {}
+    "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj": {}
   },
   "projects": {
-    "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\YouLearn.Domain\\Project.Domain.csproj": {
+    "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\YouLearn.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\YouLearn.Domain\\Project.Domain.csproj",
+        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\YouLearn.Domain\\obj\\",
+        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

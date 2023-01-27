@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Domain", "YouLearn.Domain\Project.Domain.csproj", "{2E6143BB-87DF-44FC-A682-45EB353E0608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Domain", "Project.Domain\Project.Domain.csproj", "{2E6143BB-87DF-44FC-A682-45EB353E0608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
