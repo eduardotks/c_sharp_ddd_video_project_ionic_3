@@ -1,6 +1,8 @@
-﻿namespace Project.Domain.Entities.Base
+﻿using prmToolkit.NotificationPattern;
+
+namespace Project.Domain.Entities.Base
 {
-    public abstract class EntityBase
+    public abstract class EntityBase : Notifiable
     {
         public EntityBase()
         {
