@@ -1,7 +1,5 @@
 ﻿using Project.Domain.Arguments.Usuario;
 using Project.Domain.Services;
-using Project.Domain.ValueObjects;
-using System;
 
 namespace Project.ConsoleApp
 {

@@ -1,6 +1,5 @@
 ﻿using prmToolkit.NotificationPattern;
 using prmToolkit.NotificationPattern.Extensions;
-using Project.Domain.Entities;
 using Project.Domain.Resources;
 
 namespace Project.Domain.ValueObjects
@@ -13,7 +12,7 @@ namespace Project.Domain.ValueObjects
             UltimoNome = ultimoNome;
 
             new AddNotifications<Nome>(this)
-                .IfNullOrEmptyOrInvalidLength(x => x.PrimeiroNome, 1, 50, MSG.X0_E_OBRIGATORIA_E_DEVE_CONTER_X1_CARACTERES.ToFormat("Primeiro Nome",1,50))
+                .IfNullOrEmptyOrInvalidLength(x => x.PrimeiroNome, 1, 50, MSG.X0_E_OBRIGATORIA_E_DEVE_CONTER_X1_CARACTERES.ToFormat("Primeiro Nome", 1, 50))
                 .IfNullOrEmptyOrInvalidLength(x => x.UltimoNome, 1, 50, MSG.X0_E_OBRIGATORIA_E_DEVE_CONTER_X1_CARACTERES.ToFormat("Último Nome", 1, 50)
             );
             /*if (PrimeiroNome.Length < 3 || PrimeiroNome.Length > 50)
@@ -27,8 +26,8 @@ namespace Project.Domain.ValueObjects
             }*/
         }
 
-        public string PrimeiroNome { get; set; }
-        public string UltimoNome { get; set; }
+        public string PrimeiroNome { get; private set; }
+        public string UltimoNome { get; private set; }
 
     }
 }
