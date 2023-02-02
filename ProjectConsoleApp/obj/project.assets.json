@@ -4618,9 +4618,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\ProjectConsoleApp\\ProjectConsoleApp.csproj",
-      "projectName": "ProjectConsoleApp",
-      "projectPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\ProjectConsoleApp\\ProjectConsoleApp.csproj",
+      "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\ProjectConsoleApp\\Project.ConsoleApp.csproj",
+      "projectName": "Project.ConsoleApp",
+      "projectPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\ProjectConsoleApp\\Project.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
       "outputPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\ProjectConsoleApp\\obj\\",
       "projectStyle": "PackageReference",

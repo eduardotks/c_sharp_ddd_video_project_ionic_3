@@ -1,18 +1,27 @@
-﻿using Project.Domain.Entities.Base;
+﻿using prmToolkit.NotificationPattern;
+using Project.Domain.Entities.Base;
 using Project.Domain.Enums;
 
 namespace Project.Domain.Entities
 {
-    public class Playlist : EntityBase
+    public class PlayList : EntityBase
     {
-        public Playlist()
+        protected PlayList()
         {
-            Video video = new Video();
-            video.status = EnumStatus.Aprovado;
-        }
-        public Usuario Usuario { get; set; }
 
-        //em análise, aprovado ou recusando
-        public EnumStatus Status { get; set; }
+        }
+        public PlayList(string nome, Usuario usuario)
+        {
+            Nome = nome;
+            Usuario = usuario;
+
+            new AddNotifications<PlayList>(this).IfNullOrInvalidLength(x => x.Nome, 2, 100);
+
+            AddNotifications(usuario);
+        }
+
+        public string Nome { get; private set; }
+        public Usuario Usuario { get; private set; }
+        public EnumStatus Status { get; private set; }
     }
 }

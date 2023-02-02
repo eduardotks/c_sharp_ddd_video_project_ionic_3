@@ -1,0 +1,5 @@
+C:\$$$$$CCOD\YouLearn\YouLearn\ProjectConsoleApp\obj\Debug\net6.0\Project.ConsoleApp.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\ProjectConsoleApp\obj\Debug\net6.0\Project.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\YouLearn\ProjectConsoleApp\obj\Debug\net6.0\Project.ConsoleApp.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\ProjectConsoleApp\obj\Debug\net6.0\Project.ConsoleApp.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\YouLearn\ProjectConsoleApp\obj\Debug\net6.0\Project.ConsoleApp.csproj.CoreCompileInputs.cache

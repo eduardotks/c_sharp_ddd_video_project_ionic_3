@@ -1,5 +1,4 @@
 ﻿using Project.Domain.Arguments.Usuario;
-using Project.Domain.Services;
 
 namespace Project.ConsoleApp
 {
@@ -9,12 +8,14 @@ namespace Project.ConsoleApp
         {
             AdicionarUsuarioRequest request = new AdicionarUsuarioRequest()
             {
-                Email = "ed3mais2008@hotmail.com",
+                Email = "teste@hotmail.com",
                 PrimeiroNome = "Eduardo",
-                UltimoNome = "Costa",
+                UltimoNome = "C",
                 Senha = "123456"
             };
-            var response = new ServiceUsuario().AdicionarUsuario(request);
+
+            //unusable project...configure para funcionar novamente.
+            //var response = new ServiceUsuario().AdicionarUsuario(request);
 
         }
     }

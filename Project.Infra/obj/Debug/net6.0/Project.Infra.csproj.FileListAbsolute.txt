@@ -1,0 +1,5 @@
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.CoreCompileInputs.cache
