@@ -1,8 +1,3 @@
-C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.AssemblyReference.cache
-C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.GeneratedMSBuildEditorConfig.editorconfig
-C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfoInputs.cache
-C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfo.cs
-C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.CoreCompileInputs.cache
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Infra.deps.json
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Infra.runtimeconfig.json
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Infra.dll
@@ -11,6 +6,11 @@ C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Domain.dll
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Shared.dll
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Domain.pdb
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\bin\Debug\net6.0\Project.Shared.pdb
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.CoreCompileInputs.cache
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.csproj.CopyComplete
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\Project.Infra.dll
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Infra\obj\Debug\net6.0\refint\Project.Infra.dll

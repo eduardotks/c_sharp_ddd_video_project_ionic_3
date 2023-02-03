@@ -1,7 +1,5 @@
 ﻿using prmToolkit.NotificationPattern;
 using prmToolkit.NotificationPattern.Extensions;
-using Project.Domain.Entities.Base;
-using Project.Domain.Entities;
 using Project.Domain.Resources;
 
 namespace Project.Domain.ValueObjects
