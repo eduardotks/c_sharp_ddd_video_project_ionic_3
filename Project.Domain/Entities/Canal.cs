@@ -18,12 +18,12 @@ namespace Project.Domain.Entities
             UrlLogo = urlLogo;
             Usuario = usuario;
 
-            //new AddNotifications<Canal>(this)
-            //    .IfNullOrInvalidLength(x => x.Nome, 2, 50, MSG.X0_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES.ToFormat("2", "50"))
-            //    .IfNullOrInvalidLength(x => x.UrlLogo, 4, 200, MSG.X0_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES.ToFormat("4", "200"));
+            new AddNotifications<Canal>(this)
+                .IfNullOrInvalidLength(x => x.Nome, 2, 50, MSG.X0_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES.ToFormat("2", "50"))
+                .IfNullOrInvalidLength(x => x.UrlLogo, 4, 200, MSG.X0_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES.ToFormat("4", "200"));
 
-            new AddNotifications<Canal>(this).IfNullOrInvalidLength(x => x.Nome, 2, 50)
-                                              .IfNullOrInvalidLength(x => x.UrlLogo, 4, 200);
+            //new AddNotifications<Canal>(this).IfNullOrInvalidLength(x => x.Nome, 2, 50)
+            //                                  .IfNullOrInvalidLength(x => x.UrlLogo, 4, 200);
             AddNotifications(usuario);
         }
 

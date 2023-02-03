@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLWo6Knupsp8ZuTPCGewVXyMMVAtRisU7c2csAajnYYS7Mx9zfkUk+7h8YFDNnQV/sGdwn+nuI2fOKmOU1B94A==",
+  "dgSpecHash": "QHE8nVoCJwbXJUhtl1G7489nV4a8s9nOMhQXaO7xyXSarQn1ubUj4N9CKs+KROoHeWBwm7WtBCkhHr1+HVHC/g==",
   "success": true,
-  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj",
+  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\Versão2\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

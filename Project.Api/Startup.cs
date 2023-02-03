@@ -107,7 +107,7 @@ namespace Project.Api
             services.AddCors();
 
             //services.AddMvc();
-            //services.AddMvc(option => option.EnableEndpointRouting = false); 
+            services.AddMvc(option => option.EnableEndpointRouting = false); 
             //Aplicando documentação com swagger
             services.AddSwaggerGen(x => {
                 x.SwaggerDoc("v1", new OpenApiInfo { Title = "Project", Version = "v1" });

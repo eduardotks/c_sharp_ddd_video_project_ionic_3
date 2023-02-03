@@ -24,3 +24,17 @@ C:\$$$$$CCOD\YouLearn\YouLearn\Project.Domain\obj\Debug\net6.0\Project.Domain.dl
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Domain\obj\Debug\net6.0\refint\Project.Domain.dll
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Domain\obj\Debug\net6.0\Project.Domain.pdb
 C:\$$$$$CCOD\YouLearn\YouLearn\Project.Domain\obj\Debug\net6.0\ref\Project.Domain.dll
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\bin\Debug\net6.0\Project.Domain.deps.json
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\bin\Debug\net6.0\Project.Domain.dll
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\bin\Debug\net6.0\Project.Domain.pdb
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.Resources.MSG.resources
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.csproj.GenerateResource.cache
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.dll
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\refint\Project.Domain.dll
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\Project.Domain.pdb
+C:\$$$$$CCOD\YouLearn\Versão2\c_sharp_video_ddd_ionic_3\Project.Domain\obj\Debug\net6.0\ref\Project.Domain.dll

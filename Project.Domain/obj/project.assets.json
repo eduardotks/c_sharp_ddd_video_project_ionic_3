@@ -4600,11 +4600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj",
+      "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\Versão2\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
       "projectName": "Project.Domain",
-      "projectPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\Project.Domain.csproj",
+      "projectPath": "C:\\$$$$$CCOD\\YouLearn\\Versão2\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
       "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-      "outputPath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Domain\\obj\\",
+      "outputPath": "C:\\$$$$$CCOD\\YouLearn\\Versão2\\c_sharp_video_ddd_ionic_3\\Project.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

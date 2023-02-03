@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jlcmV64bPiYtyQvHxxexgSYPlp5KYDsHdGcywwSvZDHPsDDVGG/vbLH8lkeeRUSAXxtkFLCB9QwLPdnWFj1tOw==",
+  "dgSpecHash": "dlep0IETrHo0j/qn9jI3nQerdH2MAmTBtgNqLi57OvMtR0ELmiDNykSIHMlcSHW/FLlNuHcW25xEODJqZxgSdw==",
   "success": true,
-  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\YouLearn\\Project.Infra\\Project.Infra.csproj",
+  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\Versão2\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
