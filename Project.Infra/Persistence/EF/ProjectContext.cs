@@ -2,6 +2,7 @@
 using prmToolkit.NotificationPattern;
 using Project.Domain.Entities;
 using Project.Domain.ValueObjects;
+using Project.Infra.Persistence.EF.Map;
 using Project.Shared;
 
 namespace Project.Infra.Persistence.EF

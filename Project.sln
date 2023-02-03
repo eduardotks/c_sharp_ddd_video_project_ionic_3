@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Domain", "Project.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.ConsoleApp", "ProjectConsoleApp\Project.ConsoleApp.csproj", "{14C2D0B5-E0D2-4450-AFC9-3DDD6682977F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Infra", "Project.Infra\Project.Infra.csproj", "{A04CC625-9CC8-40EE-A364-182779D8F274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Infra", "Project.Infra\Project.Infra.csproj", "{A04CC625-9CC8-40EE-A364-182779D8F274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Shared", "ProjectShared\Project.Shared.csproj", "{047DA403-C646-49C7-8C18-3A33460D9D50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Shared", "ProjectShared\Project.Shared.csproj", "{047DA403-C646-49C7-8C18-3A33460D9D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Api", "Project.Api\Project.Api.csproj", "{16274AB8-DB2D-49FB-BE50-B4A1637598B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{047DA403-C646-49C7-8C18-3A33460D9D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047DA403-C646-49C7-8C18-3A33460D9D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047DA403-C646-49C7-8C18-3A33460D9D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16274AB8-DB2D-49FB-BE50-B4A1637598B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16274AB8-DB2D-49FB-BE50-B4A1637598B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16274AB8-DB2D-49FB-BE50-B4A1637598B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16274AB8-DB2D-49FB-BE50-B4A1637598B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
