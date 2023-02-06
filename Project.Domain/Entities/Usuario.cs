@@ -1,6 +1,8 @@
 ﻿using prmToolkit.NotificationPattern;
-using Project.Domain.Entities.Base;
+using System;
+using System.Collections.Generic;
 using Project.Domain.Extensions;
+using Project.Domain.Entities.Base;
 using Project.Domain.ValueObjects;
 
 namespace Project.Domain.Entities

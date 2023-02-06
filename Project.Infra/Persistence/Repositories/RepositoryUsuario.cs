@@ -1,5 +1,7 @@
-﻿using Project.Domain.Entities;
-using Project.Domain.Interface.Repositories;
+﻿using System;
+using System.Linq;
+using Project.Domain.Entities;
+using Project.Domain.Interfaces.Repositories;
 using Project.Infra.Persistence.EF;
 
 namespace Project.Infra.Persistence.Repositories
@@ -7,6 +9,7 @@ namespace Project.Infra.Persistence.Repositories
     public class RepositoryUsuario : IRepositoryUsuario
     {
         private readonly ProjectContext _context;
+
         public RepositoryUsuario(ProjectContext context)
         {
             _context = context;

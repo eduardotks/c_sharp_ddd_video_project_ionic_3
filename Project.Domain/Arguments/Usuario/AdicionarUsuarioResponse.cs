@@ -1,4 +1,6 @@
-﻿namespace Project.Domain.Arguments.Usuario
+﻿using System;
+
+namespace Project.Domain.Arguments.Usuario
 {
     public class AdicionarUsuarioResponse
     {

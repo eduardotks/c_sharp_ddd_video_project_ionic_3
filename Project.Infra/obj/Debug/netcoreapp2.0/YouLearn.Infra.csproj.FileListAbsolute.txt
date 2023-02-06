@@ -1,0 +1,29 @@
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.deps.json
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.dll
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.pdb
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Domain.dll
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Shared.dll
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Domain.pdb
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\bin\Debug\netcoreapp2.0\Project.Shared.pdb
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csprojResolveAssemblyReference.cache
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csproj.CoreCompileInputs.cache
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.AssemblyInfoInputs.cache
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.AssemblyInfo.cs
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csproj.CopyComplete
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.dll
+C:\_dev\ionic3xapi\Fontes\Project\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.deps.json
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Infra.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Domain.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Shared.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Domain.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\bin\Debug\netcoreapp2.0\Project.Shared.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csproj.AssemblyReference.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.AssemblyInfoInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.AssemblyInfo.cs
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.csproj.CopyComplete
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\Project.Infra\obj\Debug\netcoreapp2.0\Project.Infra.pdb

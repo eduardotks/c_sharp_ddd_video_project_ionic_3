@@ -1,9 +1,10 @@
 ﻿using prmToolkit.NotificationPattern;
 using prmToolkit.NotificationPattern.Extensions;
+using System;
 using Project.Domain.Arguments.Usuario;
 using Project.Domain.Entities;
-using Project.Domain.Interface.Repositories;
-using Project.Domain.Interface.Services;
+using Project.Domain.Interfaces.Repositories;
+using Project.Domain.Interfaces.Services;
 using Project.Domain.Resources;
 using Project.Domain.ValueObjects;
 
@@ -66,13 +67,9 @@ namespace Project.Domain.Services
                 AddNotification("Usuario", MSG.DADOS_NAO_ENCONTRADOS);
                 return null;
             }
-            /*
-            var response = new AutenticarUsuarioResponse()
-            {
-                Id = usuario.Id,
-                PrimeiroNome = usuario.Nome.PrimeiroNome
-            };*/
+
             var response = (AutenticarUsuarioResponse)usuario;
+
             return response;
         }
     }

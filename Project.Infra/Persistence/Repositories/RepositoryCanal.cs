@@ -1,5 +1,8 @@
-﻿using Project.Domain.Entities;
-using Project.Domain.Interface.Repositories;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using Project.Domain.Entities;
+using Project.Domain.Interfaces.Repositories;
 using Project.Infra.Persistence.EF;
 
 namespace Project.Infra.Persistence.Repositories

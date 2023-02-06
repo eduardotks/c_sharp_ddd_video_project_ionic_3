@@ -1,13 +1,14 @@
-﻿using prmToolkit.NotificationPattern;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using prmToolkit.NotificationPattern;
 using prmToolkit.NotificationPattern.Extensions;
+using Project.Domain.Arguments.Base;
 using Project.Domain.Arguments.Canal;
-using Project.Domain.Arguments.Usuario;
 using Project.Domain.Entities;
-using Project.Domain.Interface.Repositories;
-using Project.Domain.Interface.Services;
+using Project.Domain.Interfaces.Repositories;
+using Project.Domain.Interfaces.Services;
 using Project.Domain.Resources;
-using Project.Domain.ValueObjects;
-using System.Globalization;
 
 namespace Project.Domain.Services
 {
@@ -15,13 +16,13 @@ namespace Project.Domain.Services
     {
         private readonly IRepositoryUsuario _repositoryUsuario;
         private readonly IRepositoryCanal _repositoryCanal;
-        //private readonly IRepositoryVideo _repositoryVideo;
+        private readonly IRepositoryVideo _repositoryVideo;
 
         public ServiceCanal(IRepositoryUsuario repositoryUsuario, IRepositoryCanal repositoryCanal, IRepositoryVideo repositoryVideo)
         {
             _repositoryUsuario = repositoryUsuario;
             _repositoryCanal = repositoryCanal;
-            //_repositoryVideo = repositoryVideo;
+            _repositoryVideo = repositoryVideo;
         }
 
         public CanalResponse AdicionarCanal(AdicionarCanalRequest request, Guid idUsuario)

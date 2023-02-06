@@ -1,11 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.DependencyInjection;
+using Swashbuckle.AspNetCore.Swagger;
+using System;
 using Project.Api.Security;
-using Project.Domain.Interface.Services;
+using Project.Domain.Interfaces.Repositories;
+using Project.Domain.Interfaces.Services;
 using Project.Domain.Services;
 using Project.Infra.Persistence.EF;
+using Project.Infra.Persistence.Repositories;
 using Project.Infra.Transactions;
 
 namespace Project.Api
@@ -22,15 +28,15 @@ namespace Project.Api
 
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             //Services
-            //services.AddTransient<IServiceCanal, ServiceCanal>();
-            //services.AddTransient<IServicePlayList, ServicePlayList>();
-            //services.AddTransient<IServiceVideo, ServiceVideo>();
+            services.AddTransient<IServiceCanal, ServiceCanal>();
+            services.AddTransient<IServicePlayList, ServicePlayList>();
+            services.AddTransient<IServiceVideo, ServiceVideo>();
             services.AddTransient<IServiceUsuario, ServiceUsuario>();
             //Repositories
-            //services.AddTransient<IRepositoryCanal, RepositoryCanal>();
-            //services.AddTransient<IRepositoryPlayList, RepositoryPlayList>();
-            //services.AddTransient<IRepositoryVideo, RepositoryVideo>();
-            //services.AddTransient<IRepositoryUsuario, RepositoryUsuario>();
+            services.AddTransient<IRepositoryCanal, RepositoryCanal>();
+            services.AddTransient<IRepositoryPlayList, RepositoryPlayList>();
+            services.AddTransient<IRepositoryVideo, RepositoryVideo>();
+            services.AddTransient<IRepositoryUsuario, RepositoryUsuario>();
 
             //Configuração do Token
             var signingConfigurations = new SigningConfigurations();
@@ -107,14 +113,14 @@ namespace Project.Api
             services.AddCors();
 
             //services.AddMvc();
-            services.AddMvc(option => option.EnableEndpointRouting = false); 
+
             //Aplicando documentação com swagger
             services.AddSwaggerGen(x => {
-                x.SwaggerDoc("v1", new OpenApiInfo { Title = "Project", Version = "v1" });
+                x.SwaggerDoc("v1", new Info { Title = "Project", Version = "v1" });
             });
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {

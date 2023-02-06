@@ -20,7 +20,7 @@ namespace Project.Domain.Entities
             AddNotifications(usuario);
         }
 
-        public string Nome { get; private set; }
+        public string  Nome { get; private set; }
         public Usuario Usuario { get; private set; }
         public EnumStatus Status { get; private set; }
     }

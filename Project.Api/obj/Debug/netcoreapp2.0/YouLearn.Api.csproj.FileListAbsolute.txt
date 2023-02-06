@@ -16,3 +16,23 @@ C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn
 C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
 C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Shared.pdb
 C:\_dev\ionic3xapi\Fontes\YouLearn\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.csproj.CopyComplete
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Api.deps.json
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Api.runtimeconfig.json
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Api.runtimeconfig.dev.json
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Api.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Api.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Infra.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Shared.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Infra.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\bin\Debug\netcoreapp2.0\YouLearn.Shared.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.csproj.AssemblyReference.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.AssemblyInfoInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.AssemblyInfo.cs
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.csproj.CoreCompileInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.csproj.CopyComplete
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.dll
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Codificação Pessoal\Ionic3xAPIddd\YouLearn.Api\obj\Debug\netcoreapp2.0\YouLearn.Api.genruntimeconfig.cache

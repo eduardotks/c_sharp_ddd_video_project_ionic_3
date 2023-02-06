@@ -1,4 +1,6 @@
-﻿namespace Project.Domain.Arguments.Usuario
+﻿using System;
+
+namespace Project.Domain.Arguments.Usuario
 {
     public class AutenticarUsuarioResponse
     {
@@ -7,11 +9,9 @@
 
         public static explicit operator AutenticarUsuarioResponse(Entities.Usuario entidade)
         {
-            return new AutenticarUsuarioResponse()
-            {
+            return new AutenticarUsuarioResponse() {
                 Id = entidade.Id,
-                PrimeiroNome = entidade.Nome.PrimeiroNome
-
+                 PrimeiroNome = entidade.Nome.PrimeiroNome
             };
         }
     }

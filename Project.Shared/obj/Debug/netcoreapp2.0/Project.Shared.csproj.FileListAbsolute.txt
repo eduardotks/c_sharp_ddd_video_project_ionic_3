@@ -1,0 +1,10 @@
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\bin\Debug\netcoreapp2.0\Project.Shared.deps.json
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\bin\Debug\netcoreapp2.0\Project.Shared.dll
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\bin\Debug\netcoreapp2.0\Project.Shared.pdb
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.AssemblyInfoInputs.cache
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.AssemblyInfo.cs
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.dll
+C:\$$$$$CCOD\YouLearn\Versão4\Project.Shared\obj\Debug\netcoreapp2.0\Project.Shared.pdb

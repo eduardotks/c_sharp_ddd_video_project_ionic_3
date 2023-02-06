@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Project.Domain.Extensions
 {
@@ -18,4 +20,3 @@ namespace Project.Domain.Extensions
         }
     }
 }
-

@@ -13,7 +13,6 @@ using Project.Api.Security;
 using Project.Domain.Arguments.Usuario;
 using Project.Domain.Interfaces.Services;
 using Project.Infra.Transactions;
-using Project.Domain.Interface.Services;
 
 namespace Project.Api.Controllers
 {

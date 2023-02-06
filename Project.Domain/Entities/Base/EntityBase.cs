@@ -1,4 +1,5 @@
 ﻿using prmToolkit.NotificationPattern;
+using System;
 
 namespace Project.Domain.Entities.Base
 {
@@ -8,6 +9,7 @@ namespace Project.Domain.Entities.Base
         {
             Id = Guid.NewGuid();
         }
+
         public virtual Guid Id { get; set; }
     }
 }

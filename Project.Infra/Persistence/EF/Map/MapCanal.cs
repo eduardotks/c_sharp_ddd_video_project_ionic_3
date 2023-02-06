@@ -12,7 +12,7 @@ namespace Project.Infra.Persistence.EF.Map
             builder.ToTable("Canal");
             //Foreikey
             builder.HasOne(x => x.Usuario).WithMany().HasForeignKey("IdUsuario");
-
+            
             //Propriedades
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Nome).HasMaxLength(50).IsRequired();
