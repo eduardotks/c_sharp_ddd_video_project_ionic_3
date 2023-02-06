@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj": {}
+    "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj": {}
   },
   "projects": {
-    "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj": {
+    "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj",
+        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj",
         "projectName": "Project.Api",
-        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj",
+        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Api\\Project.Api.csproj",
         "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Api\\obj\\",
+        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -24,18 +24,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
-            "targetAlias": "netcoreapp2.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj": {
-                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj"
+              "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj": {
+                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj"
               }
             }
           }
@@ -47,13 +47,9 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
-          "targetAlias": "netcoreapp2.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.All": {
-              "target": "Package",
-              "version": "[2.0.5, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[2.0.3, )"
@@ -66,15 +62,9 @@
               "target": "Package",
               "version": "[2.0.2, )"
             },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -88,18 +78,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj": {
+    "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\obj\\",
+        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -112,15 +110,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
-            "targetAlias": "netcoreapp2.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -131,15 +129,9 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
-          "targetAlias": "netcoreapp2.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
-            },
             "prmToolkit.NotificationPattern": {
               "target": "Package",
               "version": "[1.0.20, )"
@@ -156,18 +148,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj": {
+    "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj",
+        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj",
         "projectName": "Project.Infra",
-        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj",
+        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\Project.Infra.csproj",
         "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Infra\\obj\\",
+        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -180,21 +177,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
-            "targetAlias": "netcoreapp2.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj": {
-                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj"
+              "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj"
               },
-              "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj": {
-                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj"
+              "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj": {
+                "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj"
               }
             }
           }
@@ -206,8 +203,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
-          "targetAlias": "netcoreapp2.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -216,12 +213,6 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[2.0.2, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -235,18 +226,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj": {
+    "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj",
+        "projectUniqueName": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj",
         "projectName": "Project.Shared",
-        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj",
+        "projectPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\Project.Shared.csproj",
         "packagesPath": "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\",
-        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Shared\\obj\\",
+        "outputPath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -259,15 +255,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
-            "targetAlias": "netcoreapp2.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -278,16 +274,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
-          "targetAlias": "netcoreapp2.0",
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -299,6 +287,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }

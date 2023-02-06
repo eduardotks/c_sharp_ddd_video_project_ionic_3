@@ -1,15 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "I4k8sLyv4w9G7l4C7AzD218lX5sZ8kqyR3szfFdlCFeY6VWgSo7BM6lU9N6kMvBslznuR6ssNktRMHqvcPtN7A==",
+  "dgSpecHash": "HccFGy3T77NCEcC9MVcb8POpalde1n2iXeg7G4EBFPzUKKvy1lb52k8x5lkKDfdZKFEz0xdjaSRzbQOHERfw3Q==",
   "success": true,
-  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\VersãoPes\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
+  "projectFilePath": "C:\\$$$$$CCOD\\YouLearn\\c_sharp_video_ddd_ionic_3\\Project.Domain\\Project.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\user_mrttgvtef311\\.nuget\\packages\\prmtoolkit.notificationpattern\\1.0.20\\prmtoolkit.notificationpattern.1.0.20.nupkg.sha512"
   ],
   "logs": []

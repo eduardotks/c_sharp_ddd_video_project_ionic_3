@@ -13,6 +13,8 @@ using Project.Domain.Services;
 using Project.Infra.Persistence.EF;
 using Project.Infra.Persistence.Repositories;
 using Project.Infra.Transactions;
+using Microsoft.Extensions.Hosting;
+using Microsoft.OpenApi.Models;
 
 namespace Project.Api
 {
@@ -113,14 +115,14 @@ namespace Project.Api
             services.AddCors();
 
             //services.AddMvc();
-
+            services.AddMvc(options => options.EnableEndpointRouting = false);
             //Aplicando documentação com swagger
             services.AddSwaggerGen(x => {
-                x.SwaggerDoc("v1", new Info { Title = "Project", Version = "v1" });
+                x.SwaggerDoc("v1", new OpenApiInfo { Title = "Project", Version = "v1" });
             });
         }
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
