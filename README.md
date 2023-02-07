@@ -22,6 +22,8 @@
 - Para correto funcionamento do banco de dados ter o SQL Server instalado.
 
 ### Instalação Front-End
+- Ter o node instalado.
+Rode os comandos abaixo:
 - `npm uninstall -g ionic cordova`
 - `npm install -g cordova ionic@latest`
 - Rode dentro do dir (USER\AppData\Roaming\npm) `ionic start` 
