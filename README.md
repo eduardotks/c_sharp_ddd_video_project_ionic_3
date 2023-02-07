@@ -14,12 +14,17 @@
 
 -
 
-### Instalação
+### Instalação Back-End
 
 - Clonar o projeto.
 - Setar a API como principal.
 - Executar.
 - Para correto funcionamento do banco de dados ter o SQL Server instalado.
+
+### Instalação Front-End
+- `npm uninstall -g ionic cordova`
+- `npm install -g cordova ionic@latest`
+- Rode dentro do dir (USER\AppData\Roaming\npm) `ionic start` 
 
 ### Migração do banco de dados.
 - Open the Package Manager Console.
