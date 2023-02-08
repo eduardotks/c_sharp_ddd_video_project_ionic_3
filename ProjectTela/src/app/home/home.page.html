@@ -1,3 +1,5 @@
+
+
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
@@ -13,15 +15,44 @@
     </ion-toolbar>
   </ion-header>
 
-  <ion-searchbar placeholder="Pesquise..."></ion-searchbar>
-  <ion-card-header>
-    Conteúdo
-  </ion-card-header>
-  <div id="container">
-    <strong>.</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer"
-        href="https://ionicframework.com/docs/components">UI Components</a></p>
+  <ion-searchbar placeholder="Digite a aula desejada" [showCancelButton]="true" #tag (keyup.enter)="buscarVideo(tag.value ?? '')"></ion-searchbar>
 
-  </div>
+  <ion-card>
+    <ion-card-header>
+      <ion-card-subtitle>Card Subtitle</ion-card-subtitle>
+      <ion-card-title>Card Title</ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+      <img src="https://www.google.com.br/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+
+    </ion-card-content>
+
+    <ion-row>
+
+      <ion-col>
+        <button icon-button icon-left clear small>
+          <ion-icon name="md-albums"></ion-icon>
+          Ver playList
+        </button>
+      </ion-col>
+
+      <ion-col>
+        <button icon-button icon-left clear small>
+        <!--<ion-icon name="text"></ion-icon>-->
+        <div>Compartilhar</div>
+      </button>
+      </ion-col>
+
+    </ion-row>
+
+  </ion-card>
+
+  <ion-fab right bottom>
+    <button ion-fab color="primary">
+      <ion-icon name="add"></ion-icon>
+    </button>
+  </ion-fab>
+
 
 </ion-content>
