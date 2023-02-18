@@ -29,7 +29,7 @@
 Rode os comandos abaixo:
 - `npm uninstall -g ionic cordova`
 - `npm install -g cordova ionic@latest`
-- Rode dentro do dir (USER\AppData\Roaming\npm) `ionic start` 
+<!-- - Rode dentro do dir (USER\AppData\Roaming\npm) `ionic start`  -->
 - `ionic serve`
 
 ### Migração do banco de dados.
