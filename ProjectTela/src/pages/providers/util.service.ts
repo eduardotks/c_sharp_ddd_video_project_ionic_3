@@ -7,7 +7,7 @@ import 'rxjs/add/operator/map';
 export class UtilService {
 
   constructor(
-    public loadingCtrl: LoadingController,
+    public loadCtrl: LoadingController,
     public toastCtrl: ToastController,
     public alertCtrl: AlertController,
   ) {
@@ -18,7 +18,7 @@ export class UtilService {
   }
 
   public showLoading(message: string = "Processando..."): any {
-    let loading = this.loadingCtrl.create({
+    let loading = this.loadCtrl.create({
       content: message
     });
 

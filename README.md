@@ -32,6 +32,11 @@ Rode os comandos abaixo:
 <!-- - Rode dentro do dir (USER\AppData\Roaming\npm) `ionic start`  -->
 - `ionic serve`
 
+### Correção de execução do front-end se necessário
+
+- npm cache clean --force
+- npm install
+
 ### Migração do banco de dados.
 
 - Open the Package Manager Console.
