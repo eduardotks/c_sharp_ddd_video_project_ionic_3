@@ -1,9 +1,11 @@
 import { Injectable } from '@angular/core';
-import { LoadingController, ToastController, AlertController } from 'ionic-angular';
+import { LoadingController, ToastController, AlertController } from '@ionic/angular';
 
 import 'rxjs/add/operator/map';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root'
+})
 export class UtilService {
 
   constructor(
@@ -19,41 +21,44 @@ export class UtilService {
 
   public showLoading(message: string = "Processando..."): any {
     let loading = this.loadCtrl.create({
-      content: message
+      message: message
+
     });
 
     return loading;
   }
 
-  public showToast(message: string, position: string = 'top'): any {
-    let toast = this.toastCtrl.create({
+  async showToast(message: string, position: 'top' | 'bottom' = 'bottom'): Promise<void> {
+    const toast = await this.toastCtrl.create({
       message: message,
       duration: 3000,
       position: position
     });
 
-    toast.present();
+    await toast.present();
   }
 
-  public showAlert(message: string, title: string = "Atenção") {
-    let alert = this.alertCtrl.create({
-      title: title,
-      subTitle: message,
+  async showAlert(message: string, title: string = "Atenção"): Promise<void> {
+    const alert = await this.alertCtrl.create({
+      header: title,
+      message: message,
       buttons: ['OK']
     });
-    alert.present();
+
+    await alert.present();
   }
 
-  public showAlertCallBack(message: string, title: string = "Atenção", callback) {
-    let alert = this.alertCtrl.create({
-      title: title,
-      subTitle: message,
+  async showAlertWithCallback(message: string, title: string = "Atenção", callback: () => void): Promise<void> {
+    const alert = await this.alertCtrl.create({
+      header: title,
+      message: message,
       buttons: [{
         text: 'OK',
         handler: callback
       }]
     });
-    alert.present();
+
+    await alert.present();
   }
 
   public isJson(json: string): boolean {
@@ -79,7 +84,7 @@ export class UtilService {
       this.showAlert("Serviço indisponível!");
     }
     else if (response.status == 401) {
-      this.showAlertCallBack("Autorização expirada, é necessário que se autentique novamente.", null, function () {
+      this.showAlertWithCallback("Autorização expirada, é necessário que se autentique novamente.", "", function () {
         localStorage.clear();
         //window.location.reload();
       });
@@ -109,7 +114,7 @@ export class UtilService {
     }
   }
 
-  removerAcentos(str) {
+  removerAcentos(str: string) {
     let com_acento = "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝŔÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿŕ";
     let sem_acento = "AAAAAAACEEEEIIIIDNOOOOOOUUUUYRsBaaaaaaaceeeeiiiionoooooouuuuybyr";
     let novastr="";
